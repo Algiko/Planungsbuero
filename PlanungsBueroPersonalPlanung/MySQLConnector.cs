@@ -19,7 +19,7 @@ namespace PlanungsBueroPersonalPlanung
         }
 
 
-        private string _DBHost = "localhost";
+        private string _DBHost = "localhost1";
 
         public string DBHost
         {
