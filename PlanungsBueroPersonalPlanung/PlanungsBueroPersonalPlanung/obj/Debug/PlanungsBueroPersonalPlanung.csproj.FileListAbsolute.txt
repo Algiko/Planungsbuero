@@ -1,0 +1,5 @@
+C:\BS\2. LJ\SAE\2022-02-21 Planungsbüro Projektstart\PlanungsBueroPersonalPlanung\PlanungsBueroPersonalPlanung\obj\Debug\PlanungsBueroPersonalPlanung.csproj.AssemblyReference.cache
+C:\BS\2. LJ\SAE\2022-02-21 Planungsbüro Projektstart\PlanungsBueroPersonalPlanung\PlanungsBueroPersonalPlanung\obj\Debug\MainWindow.g.cs
+C:\BS\2. LJ\SAE\2022-02-21 Planungsbüro Projektstart\PlanungsBueroPersonalPlanung\PlanungsBueroPersonalPlanung\obj\Debug\App.g.cs
+C:\BS\2. LJ\SAE\2022-02-21 Planungsbüro Projektstart\PlanungsBueroPersonalPlanung\PlanungsBueroPersonalPlanung\obj\Debug\PlanungsBueroPersonalPlanung_MarkupCompile.cache
+C:\BS\2. LJ\SAE\2022-02-21 Planungsbüro Projektstart\PlanungsBueroPersonalPlanung\PlanungsBueroPersonalPlanung\obj\Debug\PlanungsBueroPersonalPlanung_MarkupCompile.lref
